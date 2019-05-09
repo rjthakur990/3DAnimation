@@ -29,7 +29,7 @@
 		<div id="info">Simple Cloth Simulation<br/>
 			Verlet integration with relaxed constraints<br/>
 			<a onclick="wind = !wind;">Wind</a> |
-			<a onclick="sphere.visible = !sphere.visible;">Ball</a> |
+			<a onclick="sphere.visible = !sphere.visible;">cube</a> |
 			<a onclick="togglePins();">Pins</a>
 		</div>
 
